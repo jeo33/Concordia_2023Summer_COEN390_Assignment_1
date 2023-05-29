@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment_1</string>
+    <string name="counter_2">Counter 2</string>
+    <string name="counter_1">Counter 1</string>
+    <string name="counter_3">Counter 3</string>
+    <string name="settings">SETTINGS</string>
+    <string name="total_count">Total_Count</string>
+    <string name="show_my_counts">SHOW MY COUNTS</string>
+    <string name="event_c">Event C</string>
+    <string name="event_b">Event B</string>
+    <string name="event_a">Event A</string>
+</resources>

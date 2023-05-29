@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Views.SettingsActivity"
+    android:background="@drawable/button_background"
+    tools:layout_editor_absoluteX="-93dp"
+    tools:layout_editor_absoluteY="-11dp">
+
+
+    <LinearLayout
+        android:layout_width="402dp"
+        android:layout_height="675dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/Counter_A_Name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:maxLength="100"
+            android:maxLines="1"
+            android:text="Counter 1 name"
+            android:textColor="@color/layer1"
+            android:textSize="20sp"
+            tools:layout_conversion_absoluteHeight="53dp"
+            tools:layout_conversion_absoluteWidth="411dp" />
+
+        <EditText
+            android:id="@+id/Counter_A_Name_input"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+            android:focusable="false"
+            android:hint="Item 1 name"
+            android:inputType="text"
+            android:maxLength="20"
+            android:maxLines="1"
+            android:textColor="@color/layer1"
+            android:textColorHint="@color/layer1"
+            android:textSize="15sp"
+            tools:layout_conversion_absoluteHeight="50dp"
+            tools:layout_conversion_absoluteWidth="411dp" />
+
+        <TextView
+            android:id="@+id/Counter_B_Name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:maxLength="20"
+            android:maxLines="1"
+            android:text="Counter 2 name"
+            android:textColor="@color/layer1"
+            android:textSize="20sp"
+            tools:layout_conversion_absoluteHeight="53dp"
+            tools:layout_conversion_absoluteWidth="411dp" />
+
+        <EditText
+            android:id="@+id/Counter_B_Name_input"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+            android:focusable="false"
+            android:hint="Item 2 name"
+            android:inputType="text"
+            android:maxLength="20"
+            android:maxLines="1"
+            android:textColor="@color/layer1"
+            android:textColorHint="@color/layer1"
+            android:textSize="15sp"
+            tools:layout_conversion_absoluteHeight="45dp"
+            tools:layout_conversion_absoluteWidth="411dp" />
+
+        <TextView
+            android:id="@+id/Counter_C_Name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:maxLength="20"
+            android:maxLines="1"
+            android:text="Counter 3 name"
+            android:textColor="@color/layer1"
+            android:textSize="20sp"
+            tools:layout_conversion_absoluteHeight="53dp"
+            tools:layout_conversion_absoluteWidth="411dp" />
+
+        <EditText
+            android:id="@+id/Counter_C_Name_input"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+            android:focusable="false"
+            android:hint="Item 3 name"
+            android:inputType="text"
+            android:maxLength="20"
+            android:maxLines="1"
+            android:textColor="@color/layer1"
+            android:textColorHint="@color/layer1"
+            android:textSize="15sp"
+            tools:layout_conversion_absoluteHeight="45dp"
+            tools:layout_conversion_absoluteWidth="411dp" />
+
+        <TextView
+            android:id="@+id/Maximum_Count"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:maxLength="20"
+            android:maxLines="1"
+            android:text="Maximum count"
+            android:textColor="@color/layer1"
+            android:textSize="20sp"
+            tools:layout_conversion_absoluteHeight="53dp"
+            tools:layout_conversion_absoluteWidth="411dp" />
+
+        <EditText
+            android:id="@+id/Maximum_Count_input"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:focusable="false"
+            android:hint="Max count from 5 to 200"
+            android:inputType="number"
+            android:maxLength="20"
+            android:maxLines="1"
+            android:textColor="@color/layer1"
+            android:textColorHint="@color/layer1"
+            android:textSize="15sp"
+            tools:layout_conversion_absoluteHeight="45dp"
+            tools:layout_conversion_absoluteWidth="411dp" />
+
+        <Button
+            android:id="@+id/Save_Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_shape_to"
+            android:maxLength="20"
+            android:maxLines="1"
+            android:text="Save Button"
+            android:textColor="@color/layer1"
+            android:visibility="visible" />
+
+    </LinearLayout>
+
+</LinearLayout>
+
