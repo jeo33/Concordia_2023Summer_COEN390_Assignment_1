@@ -1,7 +1,11 @@
 # Concordia_COEN390_Assignment_1
 this is assignment 1 for coen390
 student id:40009896.
+Prototype
+https://github.com/jeo33/Concordia_2023Summer_COEN390_Assignment_1/assets/34943011/a0ea95de-5d95-4dad-9244-8aeef438ed96
 
+
+Final version:
 Programming (Computer) Assignment 1 Instructions.docx is the assignment description
 
 setting page:
