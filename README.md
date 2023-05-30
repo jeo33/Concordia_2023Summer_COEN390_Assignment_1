@@ -1,7 +1,7 @@
 # Concordia_COEN390_Assignment_1
 this is assignment 1 for coen390
 student id:40009896.
-Prototype
+\nPrototype
 https://github.com/jeo33/Concordia_2023Summer_COEN390_Assignment_1/assets/34943011/a0ea95de-5d95-4dad-9244-8aeef438ed96
 
 
