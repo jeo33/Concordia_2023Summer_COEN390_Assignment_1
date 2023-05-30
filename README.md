@@ -1,7 +1,7 @@
 # Concordia_COEN390_Assignment_1
 this is assignment 1 for coen390
 
-Programming (Computer) Assignment 1 Instructions is the assignment description
+Programming (Computer) Assignment 1 Instructions.docx is the assignment description
 
 setting page:
 ![dc6f5c46cf8ba40fc0bf4da67b1bce9](https://github.com/jeo33/Concordia_COEN390_Assignment_1/assets/34943011/3aa95925-1edf-47e9-be2c-797258166dce)
